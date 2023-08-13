@@ -1,6 +1,6 @@
 An example of how you can set up the mediator design pattern using MediatR in .NET Core. 
 
-Referenced from https://www.roundthecode.com/dotnet/how-the-mediator-design-pattern-simplifies-an-application
+Referenced from https://www.roundthecode.com/dotnet-tutorials/how-the-mediator-design-pattern-simplifies-an-application
 
 Requires:
 
